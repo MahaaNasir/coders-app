@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MahaaNasir/coders-app.github.io/static/css/main.4b45648e.css",
+    "main.js": "/MahaaNasir/coders-app.github.io/static/js/main.73005cad.js",
+    "static/js/453.91484678.chunk.js": "/MahaaNasir/coders-app.github.io/static/js/453.91484678.chunk.js",
+    "static/media/nsun.jpg": "/MahaaNasir/coders-app.github.io/static/media/nsun.79c301061259a7c55a0e.jpg",
+    "static/media/earthfull.png": "/MahaaNasir/coders-app.github.io/static/media/earthfull.28d950bf06795425eaaa.png",
+    "static/media/globe.jpg": "/MahaaNasir/coders-app.github.io/static/media/globe.e337878b83eb262f4ed0.jpg",
+    "static/media/venusfull.jpg": "/MahaaNasir/coders-app.github.io/static/media/venusfull.d3cc06941825b62de69c.jpg",
+    "static/media/marsuv.jpg": "/MahaaNasir/coders-app.github.io/static/media/marsuv.4f7fc2c768c9dfe08c74.jpg",
+    "static/media/mercuryuv.jpg": "/MahaaNasir/coders-app.github.io/static/media/mercuryuv.bd0189b753776ca3260e.jpg",
+    "static/media/uranusfull.jpg": "/MahaaNasir/coders-app.github.io/static/media/uranusfull.17b14c3d1fa0b7d13342.jpg",
+    "static/media/mercuryfull1.jpg": "/MahaaNasir/coders-app.github.io/static/media/mercuryfull1.f11375adbb019a56379f.jpg",
+    "static/media/asteroiduv.jpg": "/MahaaNasir/coders-app.github.io/static/media/asteroiduv.f632cc4691a2f2a61ed2.jpg",
+    "static/media/venusuv.jpg": "/MahaaNasir/coders-app.github.io/static/media/venusuv.31247a9acf4b4be65726.jpg",
+    "static/media/saturnfull.jpg": "/MahaaNasir/coders-app.github.io/static/media/saturnfull.53e54c9aed4c3107885a.jpg",
+    "static/media/moonuv.jpg": "/MahaaNasir/coders-app.github.io/static/media/moonuv.e732efcb28cf8cd97393.jpg",
+    "static/media/jupiteruv.jpg": "/MahaaNasir/coders-app.github.io/static/media/jupiteruv.af66282822ba690142b3.jpg",
+    "static/media/neptunefulljpg.jpg": "/MahaaNasir/coders-app.github.io/static/media/neptunefulljpg.2ffff4e758e9df7e00c1.jpg",
+    "static/media/uranosuv.jpg": "/MahaaNasir/coders-app.github.io/static/media/uranosuv.43f8336c464676a883e5.jpg",
+    "static/media/saturnring.png": "/MahaaNasir/coders-app.github.io/static/media/saturnring.bf3dac368214a3a7d19c.png",
+    "static/media/marsfull.jpg": "/MahaaNasir/coders-app.github.io/static/media/marsfull.525670ecb979949311ae.jpg",
+    "static/media/saturn.jpg": "/MahaaNasir/coders-app.github.io/static/media/saturn.135f8b3cdaa58f6eaf1e.jpg",
+    "static/media/white-close.png": "/MahaaNasir/coders-app.github.io/static/media/white-close.d10bf3a19e47fef9c95f.png",
+    "static/media/plutofull.jpg": "/MahaaNasir/coders-app.github.io/static/media/plutofull.9755f70c976735f6bd97.jpg",
+    "static/media/jupiterfull.jpg": "/MahaaNasir/coders-app.github.io/static/media/jupiterfull.ae596bb80fd8c3eeaf0e.jpg",
+    "index.html": "/MahaaNasir/coders-app.github.io/index.html",
+    "main.4b45648e.css.map": "/MahaaNasir/coders-app.github.io/static/css/main.4b45648e.css.map",
+    "main.73005cad.js.map": "/MahaaNasir/coders-app.github.io/static/js/main.73005cad.js.map",
+    "453.91484678.chunk.js.map": "/MahaaNasir/coders-app.github.io/static/js/453.91484678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b45648e.css",
+    "static/js/main.73005cad.js"
+  ]
+}
